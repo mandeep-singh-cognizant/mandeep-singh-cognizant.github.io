@@ -1,2 +1,3 @@
-h1 { color: #7777ff; }
+h1 { color: #7777ff; text-align: center; }
 p { color: #abcabc; }
+a { text-decoration: none; color: #c0ffee; }
